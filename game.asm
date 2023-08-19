@@ -1,5 +1,5 @@
 ; TIC - TAC - TOE
-; DEVLOPED BY Yash Singh,Aaman,Falguni,Deepak,Aaron.
+; DEVLOPED BY Yash Singh.
 ; LANGUAGE USED: ASSEMBLY (8086)   
 
 .MODEL SMALL
@@ -15,7 +15,7 @@ T4 DB 32, 32, 4, 32, 32, 32,  4, 32,  4,  4,  4,  4, 32,  4, 32, 32, 32, 4, 32, 
 ;--------------------------------------------------------------------
 
  
-TAGLINE DB  'Developed by Yash Singh, Aman, Falguni, Deepak, Aaron$' ; DEVELOPER NAME 
+TAGLINE DB  'Developed by Yash Singh$' ; DEVELOPER NAME 
 
 
 ; ----------------- IMPORTANT STRINGS USED THROUGHOUT THE GAME -----------------
